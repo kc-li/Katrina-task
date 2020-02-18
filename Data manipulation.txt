@@ -1,3 +1,5 @@
 This script is for data manipulation.
 
 Try to type some code here.
+
+Conclusion: This is the end of the example task file. 
